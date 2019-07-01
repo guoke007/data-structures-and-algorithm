@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * @author lihui
  * @version 1.0
- * @ClassName TwoDimensionalArrayFind
+ * @ClassName Question1
  * @Description :
  * 在一个二维数组中（每个一维数组的长度相同），
  * 每一行都按照从左到右递增的顺序排序，
@@ -13,7 +13,7 @@ import org.junit.Test;
  * 请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
  * @Date 2019/6/30 22:03
  */
-public class TwoDimensionalArrayFind {
+public class Question1 {
     /**
      * @return boolean
      * @Description 遍历查找时间复杂度O(mn)
